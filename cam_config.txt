@@ -1,0 +1,5 @@
+username = admin
+password = admin
+ip = 192.168.1.1
+onvif port = 80
+wsdl = playgrounde/wsdl/
