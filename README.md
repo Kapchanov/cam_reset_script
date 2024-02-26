@@ -1,2 +1,4 @@
-# cam_reset_script
+# cam-reset-script
 >Just a tiny cam-reset script
+# Dependencies
+> python-onvif-zeep
